@@ -5,3 +5,4 @@
 3. Video Game Sales Prediction Using Linear Regression & DecisionTree --> https://youtu.be/qIxpZU5d9_4
 4. Job Placement Classification using Random Forest --> https://youtu.be/w7SgRT3lve0
 5. Loan Price Prediction using Logistic Regression --> https://youtu.be/0xqXxHJWK98
+6. World Wide Cost of Living using Linear Regression --> https://youtu.be/3BgPD7tiG2w?si=cnQB0oNH-yxFKrO1
